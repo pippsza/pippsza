@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 <a href="https://instagram.com/pippsza" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
 </div>
 
@@ -16,6 +16,27 @@
 **Full-stack Developer | Next.js & Payload CMS Expert**
 
 I build high-performance web applications with a focus on structured content and scalable architecture. My core stack involves **Next.js**, **Tailwind CSS**, and **Payload CMS** backed by **MongoDB**. 
+
+---
+
+## 🛠 Languages and Tools
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,mongodb" />
+</div>
+
+---
+
+## 📊 Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pippsza&show_icons=true&count_private=true&theme=visual_studio_code&hide_border=false" alt="Bohdan's GitHub stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pippsza&theme=visual_studio_code&layout=compact&hide_border=false" alt="Top Languages" height="170px" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pippsza&style=flat-square&label=Profile+Views&color=blue" alt="Profile views counter" />
+</div>
 
 I enjoy the challenge of bridging complex data models in Payload with fluid user experiences in Next.js.
 
