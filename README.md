@@ -142,7 +142,7 @@
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=y1y75tjsy4n6w79lo4n3yxdcx&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=y1y75tjsy4n6w79lo4n3yxdcx&cover_image=true&theme=default&show_offline=true&background_color=0a0a0a&interchange=false&profanity=false&bar_color=facc15" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=y1y75tjsy4n6w79lo4n3yxdcx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=b1a94e&bar_color_cover=false" />
   </a>
 </div>
 
