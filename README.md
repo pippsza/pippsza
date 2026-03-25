@@ -66,7 +66,7 @@
 ### 🧊 3D Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pippsza/pippsza/output/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/pippsza/pippsza/output-3d/profile-night-green.svg" alt="3D Contribution Graph" />
 </div>
 
 ---

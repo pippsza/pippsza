@@ -19,7 +19,7 @@ jobs:
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
+          target_branch: output-3d
           build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
