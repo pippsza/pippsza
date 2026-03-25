@@ -22,20 +22,6 @@
 
 ---
 
-### 🌐 Portfolio
-
-<div align="center">
-  <a href="https://pippsza.dev" target="_blank">
-    <img src="https://api.microlink.io/?url=https://pippsza.dev&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&overlay.browser=dark" width="700" alt="pippsza.dev" style="border-radius:8px;" />
-  </a>
-  <br/>
-  <a href="https://pippsza.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_pippsza.dev-%23facc15.svg?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
-</div>
-
----
-
 ### 🛠 Tech Stack
 
 <div align="center">
@@ -65,6 +51,47 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pippsza&bg_color=0a0a0a&color=ffffff&line=facc15&point=f59e0b&area=true&area_color=facc15&border_color=1e1e1e&radius=8" />
+</div>
+
+---
+
+### 🚀 Projects
+
+<div align="center">
+
+#### ⭐ My Pride & Joy
+
+  <a href="https://github.com/pippsza/ddnet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=ddnet&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&description=DDNet%20Bingo%20—%20competitive%20gaming%20platform%20with%20real-time%20multiplayer" />
+  </a>
+  <br/>
+  <a href="https://bingo.pippsza.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Live_→_bingo.pippsza.dev-%23facc15.svg?style=flat-square&logo=googlechrome&logoColor=black" />
+  </a>
+
+<br/><br/>
+
+#### 🤖 AI-Powered
+
+  <a href="https://github.com/pippsza/steam-diploma">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=steam-diploma&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&description=Project%20for%20a%20friend%20—%20Steam-inspired%20app%20with%20AI%20integration" />
+  </a>
+  <a href="https://github.com/pippsza/homeworkBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=homeworkBot&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&description=AI-powered%20homework%20assistant%20bot" />
+  </a>
+  <br/>
+  <a href="https://sen.pippsza.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Live_→_sen.pippsza.dev-%23facc15.svg?style=flat-square&logo=googlechrome&logoColor=black" />
+  </a>
+
+<br/><br/>
+
+#### 📦 Other Projects
+
+  <a href="https://github.com/pippsza/telegram-wishlist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=telegram-wishlist&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&description=Telegram%20wishlist%20bot%20—%20@w_ishlist_bot" />
+  </a>
+
 </div>
 
 ---
