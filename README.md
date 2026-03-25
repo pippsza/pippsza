@@ -8,7 +8,6 @@
 
 🌍 Ukraine <br>
 💻 Full-stack Developer — Next.js, Payload CMS, MongoDB <br>
-🌐 [pippsza.dev](https://pippsza.dev) <br>
 
 <a href="https://linkedin.com/in/bohdan-astakhov-36a95a349" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -19,6 +18,32 @@
 <a href="https://instagram.com/pippsza" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
+<a href="https://t.me/astakhovBohdan" target="_blank">
+  <img src="https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+</a>
+<a href="https://discord.com/users/pippsza" target="_blank">
+  <img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+</a>
+<a href="https://twitter.com/pippsza" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+</a>
+<a href="https://open.spotify.com/user/y1y75tjsy4n6w79lo4n3yxdcx" target="_blank">
+  <img src="https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify" />
+</a>
+
+---
+
+### 🌐 Portfolio
+
+<div align="center">
+  <a href="https://github.com/pippsza/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=portfolio&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
+  </a>
+  <br/>
+  <a href="https://pippsza.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_pippsza.dev-0a0a0a?style=for-the-badge&logoColor=facc15&color=0a0a0a&labelColor=facc15" />
+  </a>
+</div>
 
 ---
 
@@ -62,11 +87,11 @@
 #### ⭐ My Pride & Joy
 
   <a href="https://github.com/pippsza/ddnet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=ddnet&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&description=DDNet%20Bingo%20—%20competitive%20gaming%20platform%20with%20real-time%20multiplayer" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=ddnet&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
   </a>
   <br/>
   <a href="https://bingo.pippsza.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Live_→_bingo.pippsza.dev-%23facc15.svg?style=flat-square&logo=googlechrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/🎮_bingo.pippsza.dev-0a0a0a?style=flat-square&color=0a0a0a&labelColor=facc15" />
   </a>
 
 <br/><br/>
@@ -74,14 +99,14 @@
 #### 🤖 AI-Powered
 
   <a href="https://github.com/pippsza/steam-diploma">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=steam-diploma&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&description=Project%20for%20a%20friend%20—%20Steam-inspired%20app%20with%20AI%20integration" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=steam-diploma&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
   </a>
   <a href="https://github.com/pippsza/homeworkBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=homeworkBot&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&description=AI-powered%20homework%20assistant%20bot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=homeworkBot&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
   </a>
   <br/>
   <a href="https://sen.pippsza.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Live_→_sen.pippsza.dev-%23facc15.svg?style=flat-square&logo=googlechrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/🌐_sen.pippsza.dev-0a0a0a?style=flat-square&color=0a0a0a&labelColor=facc15" />
   </a>
 
 <br/><br/>
@@ -89,7 +114,11 @@
 #### 📦 Other Projects
 
   <a href="https://github.com/pippsza/telegram-wishlist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=telegram-wishlist&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&description=Telegram%20wishlist%20bot%20—%20@w_ishlist_bot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=telegram-wishlist&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
+  </a>
+  <br/>
+  <a href="https://t.me/w_ishlist_bot" target="_blank">
+    <img src="https://img.shields.io/badge/🤖_@w__ishlist__bot-0a0a0a?style=flat-square&color=0a0a0a&labelColor=26A5E4" />
   </a>
 
 </div>
