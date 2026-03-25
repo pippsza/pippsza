@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://github.com/pippsza/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=portfolio&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=portfolio&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&v=3" />
   </a>
   <br/>
   <a href="https://pippsza.dev" target="_blank">
@@ -56,17 +56,17 @@
 
 <div align="center">
   <a href="https://github.com/pippsza">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pippsza&show_icons=true&count_private=true&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pippsza&show_icons=true&count_private=true&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&v=3" />
   </a>
   <a href="https://github.com/pippsza">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pippsza&card_width=280&bg_color=0a0a0a&title_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pippsza&card_width=280&bg_color=0a0a0a&title_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&v=3" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pippsza&background=0a0a0a&ring=facc15&fire=f59e0b&currStreakLabel=facc15&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=888888&border=1e1e1e&border_radius=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pippsza&background=0a0a0a&ring=facc15&fire=f59e0b&currStreakLabel=facc15&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=888888&border=1e1e1e&border_radius=8&v=3" />
 </div>
 
 <br/>
@@ -96,10 +96,10 @@
 #### 🤖 AI-Powered
 
   <a href="https://github.com/pippsza/steam-diploma">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=steam-diploma&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=steam-diploma&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&v=3" />
   </a>
   <a href="https://github.com/pippsza/homeworkBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=homeworkBot&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=homeworkBot&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&v=3" />
   </a>
   <br/>
   <a href="https://sen.pippsza.dev" target="_blank">
@@ -111,7 +111,7 @@
 #### 📦 Other Projects
 
   <a href="https://github.com/pippsza/telegram-wishlist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=telegram-wishlist&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=telegram-wishlist&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&v=3" />
   </a>
   <br/>
   <a href="https://t.me/w_ishlist_bot" target="_blank">
