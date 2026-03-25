@@ -31,7 +31,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pippsza&show_icons=true&count_private=true&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
   </a>
   <a href="https://github.com/pippsza">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pippsza&layout=compact&card_width=280&bg_color=0a0a0a&title_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pippsza&card_width=280&bg_color=0a0a0a&title_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
   </a>
 </div>
 
@@ -46,16 +46,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pippsza&bg_color=0a0a0a&color=ffffff&line=facc15&point=f59e0b&area=true&area_color=facc15&border_color=1e1e1e&radius=8" />
 </div>
-
----
-
-### 🚀 Featured Projects
-
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pippsza&layout=donut-vertical&card_width=280&bg_color=0a0a0a&title_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
-
- 
-
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pippsza&card_width=280&bg_color=0a0a0a&title_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
 
 ---
 
