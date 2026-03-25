@@ -96,10 +96,10 @@
 #### 🤖 AI-Powered
 
   <a href="https://github.com/pippsza/steam-diploma">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=steam-diploma&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&v=3" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=steam-diploma&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&v=3" />
   </a>
   <a href="https://github.com/pippsza/homeworkBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=homeworkBot&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&v=3" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=homeworkBot&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&v=3" />
   </a>
   <br/>
   <a href="https://sen.pippsza.dev" target="_blank">
