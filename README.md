@@ -51,11 +51,10 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/pippsza/ddnet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=ddnet&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
-  </a>
-</div>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pippsza&layout=donut-vertical&card_width=280&bg_color=0a0a0a&title_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pippsza&layout=donut-vertical&card_width=280&bg_color=0a0a0a&title_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
+
 
 ---
 
