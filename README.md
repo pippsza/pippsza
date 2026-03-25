@@ -22,6 +22,20 @@
 
 ---
 
+### 🌐 Portfolio
+
+<div align="center">
+  <a href="https://pippsza.dev" target="_blank">
+    <img src="https://api.microlink.io/?url=https://pippsza.dev&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&overlay.browser=dark" width="700" alt="pippsza.dev" style="border-radius:8px;" />
+  </a>
+  <br/>
+  <a href="https://pippsza.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_pippsza.dev-%23facc15.svg?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+</div>
+
+---
+
 ### 🛠 Tech Stack
 
 <div align="center">
