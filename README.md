@@ -84,7 +84,7 @@
 #### ⭐ My Pride & Joy
 
   <a href="https://github.com/pippsza/ddnet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=ddnet&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pippsza&repo=ddnet&bg_color=0a0a0a&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=1e1e1e&border_radius=8&cache_seconds=1&v=2" />
   </a>
   <br/>
   <a href="https://bingo.pippsza.dev" target="_blank">
