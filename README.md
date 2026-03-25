@@ -130,13 +130,13 @@
 
 ---
 
-### 🧊 3D Contributions
+<!-- ### 🧊 3D Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/pippsza/pippsza/output-3d/profile-night-green.svg" alt="3D Contribution Graph" />
 </div>
 
----
+--- -->
 
 ### 🎵 Now Playing
 
