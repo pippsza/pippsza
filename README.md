@@ -24,9 +24,6 @@
 <a href="https://discord.com/users/pippsza" target="_blank">
   <img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
 </a>
-<a href="https://twitter.com/pippsza" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-</a>
 <a href="https://open.spotify.com/user/y1y75tjsy4n6w79lo4n3yxdcx" target="_blank">
   <img src="https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify" />
 </a>
